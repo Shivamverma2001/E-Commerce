@@ -7,6 +7,10 @@ The website allows users to browse products, add them to their shopping cart, an
 
 # Website Link   https://sv-e-commerce.netlify.app/
 
+![Home Page](https://github.com/Shivamverma2001/E-Commerce/blob/main/Screenshot/Screenshot%20(41).png)
+
+
+
 
 # Features
 
@@ -23,6 +27,8 @@ Discounts and Promotions: Apply coupon codes or take advantage of ongoing promot
 Admin Panel: Manage products, categories, and user accounts. View and fulfill orders.
 
 Responsive Design: Ensures the website looks and functions well on various devices, including desktops, tablets, and smartphones.
+![Image shop sale](https://github.com/Shivamverma2001/E-Commerce/blob/main/Screenshot/Screenshot%20(42).png)
+![Image](https://github.com/Shivamverma2001/E-Commerce/blob/main/Screenshot/Screenshot%20(52).png)
 
 # Technologies Used
 Front-end: HTML, CSS, JavaScript, React.js, Redux.
